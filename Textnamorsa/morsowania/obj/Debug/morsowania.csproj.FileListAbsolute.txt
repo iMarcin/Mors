@@ -1,0 +1,10 @@
+C:\Users\marci\Desktop\Textnamorsa\morsowania\bin\Debug\morsowania.exe.config
+C:\Users\marci\Desktop\Textnamorsa\morsowania\bin\Debug\morsowania.exe
+C:\Users\marci\Desktop\Textnamorsa\morsowania\bin\Debug\morsowania.pdb
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.csprojResolveAssemblyReference.cache
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.Form1.resources
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.Properties.Resources.resources
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.csproj.GenerateResource.Cache
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.exe
+C:\Users\marci\Desktop\Textnamorsa\morsowania\obj\Debug\morsowania.pdb
