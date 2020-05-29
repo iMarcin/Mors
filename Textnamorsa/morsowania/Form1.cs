@@ -25,7 +25,7 @@ namespace morsowania
             for (int i = 0; i < wyraz.Length; i++)
             {
                 if (wyraz[i] == 'a' || wyraz[i] == 'A') { wynik += "•-/"; }
-                if (wyraz[i] == 'b' || wyraz[i] == 'B') { wynik += "-•••"; }
+                if (wyraz[i] == 'b' || wyraz[i] == 'B') { wynik += "-•••/"; }
                 if (wyraz[i] == 'c' || wyraz[i] == 'C') { wynik += "-•-•/"; }
                 if (wyraz[i] == 'd' || wyraz[i] == 'D') { wynik += "-••/"; }
                 if (wyraz[i] == 'e' || wyraz[i] == 'E') { wynik += "•/"; }
